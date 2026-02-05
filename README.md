@@ -29,7 +29,7 @@ The objectives of this assignment are:
 - **Source:** Kaggle  
 - **Link:** https://www.kaggle.com/datasets/shrutibhargava94/india-air-quality-data  
 - **Feature Used:** NO₂ (Nitrogen Dioxide) concentration  
-- **File Used:** `city_day.csv`
+- **File Used:** `data.csv`
 
 The dataset is downloaded **programmatically using the Kaggle API** to ensure reproducibility.
 
