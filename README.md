@@ -54,8 +54,7 @@ b_r = 0.3 \times ((r \bmod 5) + 1)
 \]
 
 Where:
-- \(r\) is the **University Roll Number**
-- `mod` represents the remainder operation
+- \(r\) is 102316027
 
 This transformation introduces **nonlinearity and multimodal structure**, making the analytical PDF of \(z\) intractable.
 
