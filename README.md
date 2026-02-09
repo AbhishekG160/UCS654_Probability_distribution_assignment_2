@@ -92,8 +92,8 @@ Since the analytical form of the PDF is unknown, a **Generative Adversarial Netw
 | Layer | Units | Activation |
 |------|------|-----------|
 | Input | 1 | — |
-| Dense | 64 | LeakyReLU |
-| Dense | 64 | LeakyReLU |
+| Dense | 64 | ReLU |
+| Dense | 64 | ReLU |
 | Output | 1 | Sigmoid |
 
 ---
